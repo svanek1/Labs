@@ -1,9 +1,0 @@
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\bin\Debug\netcoreapp3.1\PluginInterface.deps.json
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\bin\Debug\netcoreapp3.1\PluginInterface.dll
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\bin\Debug\netcoreapp3.1\PluginInterface.pdb
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\obj\Debug\netcoreapp3.1\PluginInterface.csprojAssemblyReference.cache
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\obj\Debug\netcoreapp3.1\PluginInterface.AssemblyInfoInputs.cache
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\obj\Debug\netcoreapp3.1\PluginInterface.AssemblyInfo.cs
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\obj\Debug\netcoreapp3.1\PluginInterface.csproj.CoreCompileInputs.cache
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\obj\Debug\netcoreapp3.1\PluginInterface.dll
-F:\Users\IvanS\source\repos\PluginDemoApp\PluginInterface\obj\Debug\netcoreapp3.1\PluginInterface.pdb
