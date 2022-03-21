@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywevZ3DCU+NV3lBEjGpCNHr8p3vOoJ+YKzZ++poBlmrQcXhL/1h/xptJ07zslQlbpg2iPPq0Dry1ssvmndZmjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanek\\Downloads\\PluginDemoApp\\PluginInterface\\PluginInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanek\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\vanek\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\vanek\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\vanek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\vanek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\vanek\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
